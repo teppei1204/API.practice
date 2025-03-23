@@ -156,3 +156,5 @@ json
 実践編:JavaScriptで作る
   Node.js + Express
   POSTMAN
+開発時は細かな動作確認が大事
+  後々どこで間違えたか分かりにくい = 結果詰まっちゃう
